@@ -1,0 +1,9 @@
+uv.lock
+.python-version
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+!outputs/
+!uploads/
+resnet_voxel_model.pth
