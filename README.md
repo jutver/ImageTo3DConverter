@@ -1,5 +1,7 @@
 # 2D to 3D Model Converter
 
+This project is only meant for experimental and educational purpose only.
+
 ## Overview
 
 This is a Flask-based web application that converts 2D images into 3D voxel models using deep learning. The system employs a ResNet-based neural network to predict 3D voxel grids from input images and provides a modern web interface with real-time 3D visualization using Three.js.
